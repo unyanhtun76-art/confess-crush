@@ -1,12 +1,9 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    titleWeb: "ဆရာမကြီးအတွက်🙇💞",
+    introTitle: 'တနင်းဂနွေနေ့ကျရင်လိုချင်တာတစ်ခုလိုက်၀ယ်ပေးမယ်ယူမှာလား,
+    introDesc: `ချစ်ခွင့်ပေးပါတော့လားဟင်,
+    btnIntro: 'လပြည့်နေ့ကျရင်ဘုရားသွားပီးအတူတူကုသိုလ်ယူချင်တာ,
+    title: ',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
